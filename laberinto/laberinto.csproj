@@ -88,7 +88,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\GreenForest\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\Menu\Script\LevelManager.cs" />
     <Compile Include="Assets\Menu\Script\RotaciónMenuInicial.cs" />
+    <Compile Include="Assets\Tutorial\Script\prueba.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GreenForest\Standard Assets\Skyboxes\_skybox info.txt" />
